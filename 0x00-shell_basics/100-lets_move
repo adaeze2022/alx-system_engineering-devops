@@ -1,2 +1,3 @@
 #!/bin/bash
-lets_mv /tmp/u
+mv src/*[A-Z]*target /tmp/u
+
